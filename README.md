@@ -93,7 +93,7 @@ The dashboard provides a simple view of the important supply chain and inventory
 
 ### 🖼️ Dashboard Preview
 
-![Supply Chain & Inventory Dashboard](images/dashboard.png)
+![Supply Chain & Inventory Dashboard](dashboard.png)
 
 > **Note:** Upload your Power BI dashboard screenshot inside the `images` folder and name it `dashboard.png`.
 
